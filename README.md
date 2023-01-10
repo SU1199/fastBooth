@@ -1,7 +1,7 @@
-# fastbooth
+# fastBooth
 
 Fast dreambooth notebook for dockerised compute platforms like vast.ai, runpod and paperspace grdient.
-Heavily {{inspired}} by [ShivamShrirao](https://github.com/ShivamShrirao/diffusers) and [TheLastBen](https://github.com/TheLastBen/fast-stable-diffusion).
+Mosly a hybrid fork of [ShivamShrirao](https://github.com/ShivamShrirao/diffusers) and [TheLastBen](https://github.com/TheLastBen/fast-stable-diffusion).
 
 ---
 ### How to use?
