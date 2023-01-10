@@ -14,8 +14,8 @@ For vast.ai ->
 - Enter `paperspace/gradient-base:pt112-tf29-jax0317-py39-20221019` in the docker image section.
 - Select launch mode as jupyterlab and press select and save.
 - I reccomend getting atleast 25GB storage on a machine with atleaset 24gb of vrm. My fav. are the a5000 machines.
-- After launching the jupyterlab enter `!wget https://raw.githubusercontent.com/su1199/fastbooth/main/fastbooth.ipynb` in a cell and run it.
-- Open the `fastbooth.ipynb` from the file tree and follow the notebook.
+- After launching the jupyterlab enter `!wget https://raw.githubusercontent.com/SU1199/fastBooth/main/FastBooth.ipynb` in a cell and run it.
+- Open the `fastBooth.ipynb` from the file tree and follow the notebook.
 ---
 ### ToDo ->
 - Add instructions for runpod and paperspace.
